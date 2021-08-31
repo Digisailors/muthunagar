@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "195955abc79664cb45c8bbd6643812a6"
+build_time: [1626937762, 89385000]
+inputs:
+  "/Users/nanbanvicky/AndroidStudioProjects/muthunagar/macos/Runner/MainFlutterWindow.swift": [1626935190, 641481318]
+  "/Users/nanbanvicky/AndroidStudioProjects/muthunagar/macos/Runner/AppDelegate.swift": [1626935190, 636058656]
+  "/Users/nanbanvicky/AndroidStudioProjects/muthunagar/macos/Flutter/GeneratedPluginRegistrant.swift": [1626937735, 626840673]
